@@ -1,1 +1,1 @@
-# chunjae-study.github.io
+# 곧 블로그가 될 예정임다
