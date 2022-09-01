@@ -1,3 +1,9 @@
+layout: post
+title:  "천재적인 첫 포스트!"
+date:   2022-08-29 16:55:03 +0900
+categories: jekyll update
+---
+
 ### Hi There!
 
 저희 블로그는 4명이 운영하며, 각각 주제로 글을 올리며 기록하고 공부하는 블로그입니다.
